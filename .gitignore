@@ -1,0 +1,4 @@
+/build
+*.dol
+*.elf
+/USBLoaderGX/meta.xml

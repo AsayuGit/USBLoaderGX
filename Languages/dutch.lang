@@ -1,0 +1,2532 @@
+# USB Loader GX language source file.
+# dutch.lang - r1217
+# don't delete/change this line (é).
+msgid ""
+msgstr ""
+"Project-Id-Version: USB Loader GX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-15 16:02+0200\n"
+"PO-Revision-Date: 2009-10-01 01:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+msgid " could not be downloaded."
+msgstr " kon niet worden gedownload"
+
+msgid " has been Saved.  The text has not been verified.  Some of the code may not work right with each other.  If you experience trouble, open the text in a real text editor for more information."
+msgstr " is opgeslagen. De tekst is niet gecontroleerd. Delen van de code kunnen elkaar tegenwerken.. Als je moeilijkheden ondervind, open dan de tekst in een echte tekstverwerker voor meer informatie."
+
+msgid " is not on the server."
+msgstr " staat niet op de server."
+
+#, c-format
+msgid "%i files not found on the server!"
+msgstr "%i bestanden niet gevonden op de server!"
+
+#, c-format
+msgid "%i missing files"
+msgstr "%i missende bestanden"
+
+#, c-format
+msgid "%i wad file(s) not processed!"
+msgstr ""
+
+#, c-format
+msgid "%i wad found."
+msgstr ""
+
+#, c-format
+msgid "%s only accepts GameCube backups in ISO format."
+msgstr "%s accepteerd alleen GameCube backups in ISO formaat."
+
+#, c-format
+msgid "%s requires AHB access! Please launch USBLoaderGX from HBC or from an updated channel or forwarder."
+msgstr "%s benodigd AHB toegang! Laad USBLoaderGX vanuit HBC of vanuit een geüpdatete channel of forwarder."
+
+msgid "--==       Devolution"
+msgstr ""
+
+msgid "--==       Nintendont"
+msgstr ""
+
+msgid "--==   DIOS MIOS (Lite) "
+msgstr ""
+
+msgid "--==  DM(L) + Nintendont"
+msgstr ""
+
+msgid "/\\/\\"
+msgstr ""
+
+msgid "0 (Everyone)"
+msgstr "0 (Iedereen 3+)"
+
+msgid "1 (Child 7+)"
+msgstr "1 (Kinderen 7+)"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "10 min"
+msgstr ""
+
+msgid "2 (Teen 12+)"
+msgstr "2 (Tiener 12+)"
+
+msgid "20 min"
+msgstr ""
+
+msgid "2D Cover Path"
+msgstr "Locatie 2D hoesjes"
+
+msgid "3 (Mature 16+)"
+msgstr "3 (Jongeren 16+)"
+
+msgid "3 min"
+msgstr ""
+
+msgid "30 min"
+msgstr ""
+
+msgid "3D Cover Path"
+msgstr "Locatie 3D hoesjes"
+
+msgid "3D Covers"
+msgstr "3D Hoesjes"
+
+msgid "4 (Adults Only 18+)"
+msgstr "4 (Volwassen 18+)"
+
+msgid "480p Pixel Fix Patch"
+msgstr ""
+
+msgid "5 min"
+msgstr ""
+
+msgid "=== GameCube Settings"
+msgstr ""
+
+msgid "AUTO"
+msgstr "Automatisch"
+
+msgid "AXNextFrame"
+msgstr ""
+
+msgid "Add category"
+msgstr "Categorie toevoegen"
+
+msgid "Adjust Overscan X"
+msgstr "Aanpassen Overscan X"
+
+msgid "Adjust Overscan Y"
+msgstr "Aanpassen Overscan Y"
+
+msgid "After zoom"
+msgstr ""
+
+msgid "All"
+msgstr "Alles"
+
+msgid "All Partitions"
+msgstr "Alle partities"
+
+msgid "All files extracted."
+msgstr "Alle bestanden uitgepakt."
+
+msgid "All images downloaded successfully."
+msgstr "Alle plaatjes succesvol gedownload."
+
+msgid "All the features of USB Loader GX are unlocked."
+msgstr "Alle functies van USB Loader GX zijn vrijgegeven."
+
+msgid "All wad files processed successfully."
+msgstr ""
+
+msgid "Alternate DOL"
+msgstr "Alternatieve DOL"
+
+msgid "An example file was created here:"
+msgstr "Er is hier een voorbeeldbestand gemaakt:"
+
+msgid "Animation Start"
+msgstr "Animatie Start"
+
+msgid "App Language"
+msgstr "Applicatie Taal"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Apr"
+msgstr ""
+
+msgid "Are you really sure you want to delete all selected games from the SD card?"
+msgstr "Weet je zeker dat je alle geselecteerde games van de SD kaart wilt verwijderen?"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "Weet je zeker dat je deze categorie wilt verwijderen?"
+
+msgid "Are you sure you want to import game categories from GameTDB?"
+msgstr "Weet je zeker dat je spel categorieën wilt importeren van GameTBD?"
+
+msgid "Are you sure you want to install on SD?"
+msgstr "Weet je zeker dat je wilt installeren op SD?"
+
+msgid "Are you sure you want to lock USB Loader GX?"
+msgstr "Weet je zeker dat je USB Loader GX wilt vergrendelen?"
+
+msgid "Are you sure you want to remount SD?"
+msgstr "Weet je zeker dat je de SD wilt hermounten?"
+
+msgid "Are you sure you want to reset?"
+msgstr "Wet je zeker dat je wilt resetten?"
+
+msgid "Are you sure?"
+msgstr "Zeker weten?"
+
+msgid "Aspect Ratio"
+msgstr "verhouding ratio"
+
+msgid "Attention!"
+msgstr "Opgelet!"
+
+msgid "Attention: All savegames will be deleted."
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Author(s):"
+msgstr "Auteur(s):"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto Boot"
+msgstr "Auto Opstart"
+
+msgid "AutoInit Network"
+msgstr "Netwerk AutoStart"
+
+msgid "BCA Codes Path"
+msgstr "Locatie BCA codes"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Back to HBC or Wii Menu"
+msgstr "Terug naar HBC of Wii Menu"
+
+msgid "Backgroundmusic"
+msgstr "Achtergrondmuziek"
+
+msgid "Banner Animation"
+msgstr "Banner Animatie"
+
+msgid "Banner Animation Settings"
+msgstr "Banner Animatie Instellingen"
+
+msgid "Banner On Channels"
+msgstr "Banner Bij Kanalen"
+
+msgid "Banner grid layout is only available with AHBPROT! Please consider installing new HBC version."
+msgstr "Banner raster indeling is alleen beschikbaar met AHBPROT! Overweeg het updaten van HBC."
+
+msgid "Banner window is only available with AHBPROT! Please consider installing new HBC version."
+msgstr "Banner scherm is alleen beschikbaar met AHBPROT! Overweeg het updaten van HBC."
+
+msgid "Big thanks to:"
+msgstr "Grote dank aan:"
+
+msgid "Block Categories Menu"
+msgstr "Blokkeer Categorie Menu"
+
+msgid "Block Categories Modify"
+msgstr "Blokkeer Categorieën Wijzigen"
+
+msgid "Block Cover Downloads"
+msgstr "Blokkeer Downloads Van Hoesjes"
+
+msgid "Block Custom Paths"
+msgstr "Blokkeer Aangepaste Locaties"
+
+msgid "Block Feature Settings"
+msgstr "Blokkeer Functie Instellingen"
+
+msgid "Block Game Install"
+msgstr "Blokkeer Spel Installatie"
+
+msgid "Block Game Settings"
+msgstr "Blokkeer Spel Instellingen"
+
+msgid "Block GameID Change"
+msgstr "Blokkeer SpelID Wijzigen"
+
+msgid "Block Global Settings"
+msgstr "Blokkeer Globale Instellingen"
+
+msgid "Block Gui Settings"
+msgstr "Blokkeer GUI Instellingen"
+
+msgid "Block HBC Menu"
+msgstr "Blokkeer HBC Menu"
+
+msgid "Block Hard Drive Settings"
+msgstr "Blokkeer Harddisk Instellingen"
+
+msgid "Block IOS Reload"
+msgstr "Blokkeer IOS Herladen"
+
+msgid "Block Loader Layout Button"
+msgstr ""
+
+msgid "Block Loader Mode Button"
+msgstr ""
+
+msgid "Block Loader Settings"
+msgstr "Blokkeer Loader Instellingen"
+
+msgid "Block Parental Settings"
+msgstr "Blokkeer Ouderlijk Toezicht"
+
+msgid "Block Priiloader Override"
+msgstr "Blokkeer Priiloader Override"
+
+msgid "Block Reset Settings"
+msgstr "Blokkeer Reset Instellingen"
+
+msgid "Block SD Reload Button"
+msgstr "Blokkeer SD Herlaad Knop"
+
+msgid "Block Sound Settings"
+msgstr "Blokkeer Geluid Instellingen"
+
+msgid "Block Theme Downloader"
+msgstr "Blokkeer Thema Downloader"
+
+msgid "Block Theme Menu"
+msgstr "Blokkeer Thema Menu"
+
+msgid "Block Title Launcher"
+msgstr "Blokkeer Titel Launcher"
+
+msgid "Block Updates"
+msgstr "Blokkeer Updates"
+
+msgid "Boot Content"
+msgstr "Start Content"
+
+msgid "Boot Neek System Menu"
+msgstr ""
+
+msgid "Boot?"
+msgstr "Start?"
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "Both Ports"
+msgstr "Beide poorten"
+
+msgid "CC Rumble"
+msgstr ""
+
+msgid "Cache BNR Files"
+msgstr "Cache BNR Bestanden"
+
+msgid "Cache BNR Files Path"
+msgstr "Cache BNR Bestandspad"
+
+msgid "Cache Titles"
+msgstr "Titels cachen"
+
+msgid "Can't be formatted"
+msgstr "Kan niet geformatteerd worden"
+
+msgid "Can't create directory"
+msgstr "Kan map niet aanmaken"
+
+#, c-format
+msgid "Can't create file: %s"
+msgstr "Kan bestand niet aanmaken: %s"
+
+#, c-format
+msgid "Can't create path: %s"
+msgstr "Kan pad niet maken: %s"
+
+msgid "Can't delete:"
+msgstr "Kan niet verwijderen:"
+
+msgid "Can't mount or unknown disc format."
+msgstr "Kan niet mounten of onbekend schijf formaat."
+
+#, c-format
+msgid "Can't open file for write: %s"
+msgstr "Kan bestand niet openen voor schrijven: %s"
+
+#, c-format
+msgid "Can't open file: %s"
+msgstr "Kan bestand niet openen: %s"
+
+#, c-format
+msgid "Can't read file: %s"
+msgstr "Kan bestand niet lezen: %s"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cannot write to destination."
+msgstr "Kan niet naar bestemming schrijven."
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Categories:"
+msgstr "Categorieën:"
+
+msgid "Change Play Path"
+msgstr "Verander afspeel locatie"
+
+msgid "Channel Launcher"
+msgstr "Kanaal Launcher"
+
+msgid "Channels"
+msgstr "Kanalen"
+
+msgid "Cheatfile is blank"
+msgstr "Cheatbestand is leeg"
+
+msgid "Clear"
+msgstr "Wissen"
+
+msgid "Click to Download Covers"
+msgstr "Klik om hoesjes te downloaden"
+
+msgid "Click to change game ID"
+msgstr "Klik om het spel ID te wijzigen"
+
+msgid "Clock"
+msgstr "Klok"
+
+msgid "Clock Scale Factor"
+msgstr "Klok Schaal Factor"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Code Download"
+msgstr "Code Download"
+
+#, c-format
+msgid "Coded by: %s"
+msgstr "Geprogrammeerd door: %s"
+
+msgid "Coding:"
+msgstr "Codering:"
+
+msgid "Connection to server timed out."
+msgstr "Verbinding met de server duurt te lang."
+
+msgid "Console"
+msgstr "Console"
+
+msgid "Console Default"
+msgstr "Console standaard"
+
+msgid "Console Locked"
+msgstr "Console vergrendeld"
+
+msgid "Console must be unlocked for this option."
+msgstr "Console moet ontgrendeld zijn voor deze optie."
+
+msgid "Console must be unlocked to be able to use this."
+msgstr "Console moet worden vrijgegeven om dit te kunnen gebruiken."
+
+msgid "Console should be unlocked to modify it."
+msgstr "Console moet worden vrijgegeven om te wijzigen."
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Continue to install game?"
+msgstr "Installatie spel voortzetten?"
+
+msgid "Continue?"
+msgstr "Doorgaan?"
+
+msgid "Controllevel"
+msgstr "Controle niveau"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "Copying Canceled"
+msgstr "Kopiëren geannuleerd"
+
+msgid "Copying GC game..."
+msgstr "GC game kopiëren..."
+
+msgid "Copying files..."
+msgstr "Bestanden kopiëren..."
+
+msgid "Correct Password"
+msgstr "Juiste Wachtwoord"
+
+msgid "Could not connect to the server."
+msgstr "Kan geen verbinding met de server maken."
+
+msgid "Could not create GCT file"
+msgstr "Kan GCT bestand niet aanmaken"
+
+#, c-format
+msgid "Could not create path: %s"
+msgstr "Kan pad niet maken: %s"
+
+msgid "Could not extract files for:"
+msgstr "Kan bestanden niet uitpakken voor:"
+
+msgid "Could not find info for this game in the wiitdb.xml."
+msgstr "Kan geen info over dit spel vinden in de wiitdb.xml."
+
+msgid "Could not get free device space for game."
+msgstr "Kon geen vrije ruimte krijgen voor het spel."
+
+msgid "Could not initialize DIP module!"
+msgstr "Kan DIP module niet initialiseren!"
+
+msgid "Could not initialize network!"
+msgstr "Kan netwerk niet initialiseren!"
+
+msgid "Could not initialize network, time out!"
+msgstr "Kan netwerk niet initialiseren, time-out!"
+
+msgid "Could not open Disc"
+msgstr "Kan disk niet openen"
+
+msgid "Could not open the WiiTDB.xml file."
+msgstr "Kan het WiiTDB.xml bestand niet openen."
+
+msgid "Could not open wiitdb.xml."
+msgstr "Kan wiitdb.xml niet openen."
+
+msgid "Could not save."
+msgstr "Kan niet opslaan."
+
+msgid "Could not write file."
+msgstr "Kan niet naar bestand schrijven."
+
+msgid "Could not write to:"
+msgstr "Kan niet schrijven naar:"
+
+msgid "Cover Download"
+msgstr "Download hoesjes"
+
+msgid "Create"
+msgstr "Maak"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Crop Overscan"
+msgstr ""
+
+msgid "Current neek files are not neek2o. Game autoboot disabled."
+msgstr ""
+
+msgid "Custom Banners"
+msgstr "Aangepaste Banners"
+
+msgid "Custom Paths"
+msgstr "Aangepaste Locaties"
+
+msgid "Customs"
+msgstr "Aangepaste"
+
+msgid "Customs/Original"
+msgstr "Aangepast/Origineel"
+
+msgid "D Buttons"
+msgstr "D Knoppen"
+
+msgid "DOL Path"
+msgstr "DOL Pad"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug Wait"
+msgstr "Debug Wachttijd"
+
+msgid "Debugger Paused Start"
+msgstr "Debugger Gepauseerd Start"
+
+msgid "Dec"
+msgstr ""
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Default Gamesettings"
+msgstr "Standaard spel instellingen"
+
+msgid "Default Settings"
+msgstr "Standaardinstellingen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete Cached Banner"
+msgstr "Verwijder Gecachete Banner"
+
+msgid "Delete Cheat GCT"
+msgstr "Cheat GCT verwijderen"
+
+msgid "Delete Cheat TXT"
+msgstr "Cheat TXT verwijderen"
+
+msgid "Delete Cover Artwork"
+msgstr "Hoesjes verwijderen"
+
+msgid "Delete Disc Artwork"
+msgstr "Disk labels verwijderen"
+
+msgid "Delete category"
+msgstr "Verwijder categorie"
+
+msgid "Deleting directories..."
+msgstr "Mappen verwijderen..."
+
+msgid "Deleting files..."
+msgstr "Bestanden verwijderen..."
+
+msgid "Design:"
+msgstr "Ontwerp:"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Developed by"
+msgstr "Ontwikkeld door"
+
+msgid "Developer:"
+msgstr "Ontwikkelaar:"
+
+msgid "Devolution"
+msgstr "Devolution"
+
+msgid "Devolution Loader Path"
+msgstr "Devolution Loader Locatie"
+
+msgid "Devolution's loader.bin file can't be loaded."
+msgstr "Devolution's loader.bin bestand kan niet worden geladen."
+
+msgid "Directory does not exist!"
+msgstr "Map bestaat niet!"
+
+msgid "Disc 1"
+msgstr "Disc 1"
+
+msgid "Disc 2"
+msgstr "Disc 2"
+
+msgid "Disc Artwork Download"
+msgstr "Download disk labels"
+
+msgid "Disc Artwork Path"
+msgstr "Locatie disk labels"
+
+msgid "Disc Default"
+msgstr "Disk standaard"
+
+msgid "Disc Insert Detected"
+msgstr "Disk invoer gedetecteerd"
+
+msgid "Disc Read Delay"
+msgstr ""
+
+msgid "Disc read error."
+msgstr "Disk leesfout."
+
+msgid "Disc-Select Prompt"
+msgstr ""
+
+msgid "Disc2 needs to be installed in uncompressed format to work with DM(L) v2.6+, are you sure you want to install in compressed format?"
+msgstr "Disc2 moet in een ongecomprimeerd formaat worden opgeslagen om te werken met DM (L) V2.6+, weet je zeker dat je wilt installeren in een gecomprimeerd formaat?"
+
+msgid "Discarts"
+msgstr "Disk afbeeldingen"
+
+msgid "DiskFlip"
+msgstr ""
+
+msgid "Display"
+msgstr "Tonen"
+
+msgid "Display as a carousel"
+msgstr "Carrouselweergave"
+
+msgid "Display as a channel grid"
+msgstr "Kanaalrasterweergave"
+
+msgid "Display as a grid"
+msgstr "Rasterweergave"
+
+msgid "Display as a list"
+msgstr "Lijstweergave"
+
+msgid "Display favorites only"
+msgstr "Alleen favorieten weergeven"
+
+msgid "Do you want to apply it now?"
+msgstr "Wil je dit nu toepassen?"
+
+msgid "Do you want to apply this theme?"
+msgstr "Wil je dit thema toepassen?"
+
+msgid "Do you want to change language?"
+msgstr "Wil je de taal wijzigen?"
+
+msgid "Do you want to continue with next game?"
+msgstr "Wil je doorgaan met het volgende spel?"
+
+msgid "Do you want to copy now?"
+msgstr "Wil je nu kopiëren?"
+
+msgid "Do you want to copy the game to SD or delete a game on SD?"
+msgstr "Wil je een spel naar de SD kopiëren of er een van verwijderen?"
+
+msgid "Do you want to delete a game on SD?"
+msgstr "Wil je een spel verwijderen van de SD"
+
+msgid "Do you want to discard changes?"
+msgstr "Wil je alle gemaakte wijzigingen verwerpen?"
+
+msgid "Do you want to download this theme?"
+msgstr "Wil je dit thema downloaden?"
+
+msgid "Do you want to extract all the save games?"
+msgstr "Wil je alle opgeslagen spellen uitpakken?"
+
+msgid "Do you want to extract the save game?"
+msgstr "Wil je dit opgeslagen spel uitpakken?"
+
+msgid "Do you want to format:"
+msgstr "Wil je formatteren:"
+
+msgid "Do you want to install selected games?"
+msgstr "Wil je de geselecteerde spellen installeren?"
+
+msgid "Do you want to load the default theme?"
+msgstr "Wil je het standaard thema laden?"
+
+msgid "Do you want to move the file(s)? Any existing ones will be deleted!"
+msgstr ""
+
+msgid "Do you want to re-init network?"
+msgstr "Wil je het netwerk herinitialiseren?"
+
+msgid "Do you want to start the game now?"
+msgstr "Wil je het spel nu starten?"
+
+msgid "Do you want to sync free space info sector on all FAT32 partitions?"
+msgstr "Wil je de vrije ruimte informatie sector synchroniseren op alle FAT32 partities?"
+
+msgid "Do you wish to update/download all language files?"
+msgstr "Wil je alle taalbestanden updaten/downloaden?"
+
+msgid "Dol Video Patch"
+msgstr "DOL Video Patch"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download Now"
+msgstr "Download nu"
+
+msgid "Download finished"
+msgstr "Download voltooid"
+
+msgid "Downloading 3D Covers"
+msgstr "3D hoesjes aan het downloaden"
+
+msgid "Downloading Custom Banners"
+msgstr "Aangepaste banners aan het downloaden"
+
+msgid "Downloading Flat Covers"
+msgstr "Platte hoesjes aan het downloaden"
+
+msgid "Downloading Full HQ Covers"
+msgstr "HQ volledige hoesjes downloaden"
+
+msgid "Downloading Full LQ Covers"
+msgstr "LQ volledige hoesjes downloaden "
+
+msgid "Downloading custom Discarts"
+msgstr "Aangepaste disc afbeeldingen downloaden"
+
+msgid "Downloading file..."
+msgstr "Bestand downloaden..."
+
+msgid "Downloading image:"
+msgstr "Afbeelding downloaden:"
+
+msgid "Downloading original Discarts"
+msgstr "Originele disc afbeeldingen downloaden"
+
+msgid "Downloading pagelist:"
+msgstr "Paginalijst downloaden:"
+
+msgid "Dump NAND to EmuNand"
+msgstr "NAND Dumpen naar EmuNand"
+
+msgid "During zoom"
+msgstr "Tijdens zoom"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "ERROR"
+msgstr "FOUT"
+
+msgid "ERROR:"
+msgstr "FOUT:"
+
+msgid "ERROR: Can't set up theme."
+msgstr "FOUT: Kan thema niet instellen"
+
+msgid "EmuNAND Wad Manager"
+msgstr ""
+
+msgid "EmuNand Channels"
+msgstr "EmuNand Kanalen"
+
+msgid "Emulated Nand"
+msgstr "Geëmuleerd Nand"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "Enter Path"
+msgstr "Voer pad in"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Error !"
+msgstr "Fout !"
+
+#, c-format
+msgid "Error creating path: %s"
+msgstr "Kan pad niet maken: %s"
+
+msgid "Error opening downloaded file"
+msgstr "Fout bij het openen van gedownload bestand"
+
+msgid "Error reading Disc"
+msgstr "Fout bij lezen disk"
+
+msgid "Error reading disc"
+msgstr ""
+
+#, c-format
+msgid "Error when downloading file: %i"
+msgstr "Fout bij het downloaden van bestand: %i"
+
+msgid "Error while downloding file"
+msgstr "Fout tijdens bestand downloaden"
+
+msgid "Error while opening the zip."
+msgstr "Fout bij het openen van de zip."
+
+msgid "Error while transfering data."
+msgstr "Fout bij overplaatsen van data."
+
+msgid "Error while updating USB Loader GX."
+msgstr "Fout bij het updaten van USB Loader GX"
+
+msgid "Error writing the data."
+msgstr "Fout bij het schrijven van de data."
+
+msgid "Error:"
+msgstr "Fout:"
+
+msgid "Error: Not enough space on SD."
+msgstr "Fout: Niet genoeg ruimte op SD."
+
+msgid "Errors occured."
+msgstr "Fouten opgetreden."
+
+msgid "Everything"
+msgstr "Alles"
+
+msgid "Exit"
+msgstr "Stoppen"
+
+msgid "Exit to where?"
+msgstr "Stoppen naar?"
+
+msgid "Export All Saves to EmuNand"
+msgstr "Alle Saves exporteren naar EmuNand"
+
+msgid "Export Miis to EmuNand"
+msgstr "Exporteer Miis naar EmuNand"
+
+msgid "Export SYSCONF to EmuNand"
+msgstr "Exporteerd SYSCONF naar EmuNand"
+
+msgid "Extract Miis to the Emu NAND?"
+msgstr "Miis naar EmuNand uitpakken?"
+
+msgid "Extract SYSCONF to the Emu NAND?"
+msgstr "SYSCONF naar EmuNand uitpakken?"
+
+msgid "Extract Save to EmuNand"
+msgstr "Save Exporteren naar EmuNand"
+
+msgid "Extracting file:"
+msgstr "Uitpakken:"
+
+msgid "Extracting files..."
+msgstr "Bestanden uitpakken..."
+
+msgid "Extracting files:"
+msgstr "Uitpakken:"
+
+msgid "Extracting nand files:"
+msgstr "NAND Uitpakken:"
+
+msgid "F-Zero AX"
+msgstr ""
+
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "Failed copying file"
+msgstr "Kopiëren van bestand mislukt"
+
+msgid "Failed formating"
+msgstr "Formatteren mislukt"
+
+msgid "Failed to extract all files. Savegame might not exist."
+msgstr "Uitpakken mislukt. Savegame bestaat wellicht niet."
+
+msgid "Failed to extract."
+msgstr "Uitpakken mislukt."
+
+msgid "Failed to initialize the USB storage device."
+msgstr "USB apparaat niet kunnen initialiseren."
+
+msgid "Failed to open partition"
+msgstr "Partitie openen mislukt"
+
+msgid "Failed to read ticket."
+msgstr "Kon ticket niet lezen"
+
+msgid "Failed to read tmd file."
+msgstr "Kon tmd bestand niet lezen"
+
+msgid "Failed to read wad header."
+msgstr "Kon wad header niet lezen"
+
+msgid "Failed updating"
+msgstr "Updaten mislukt"
+
+msgid "Favorite Level"
+msgstr "Favoriete Level"
+
+msgid "Features"
+msgstr "Functies"
+
+msgid "Features Settings"
+msgstr "Functie Instellingen"
+
+msgid "Feb"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File not found."
+msgstr "Bestand niet gevonden."
+
+msgid "File read/write error."
+msgstr "Bestand lees/schrijf fout."
+
+msgid "Files extracted successfully."
+msgstr "Bestanden succesvol uitgepakt."
+
+#, c-format
+msgid "Filesize is %i Byte."
+msgstr "Bestandsgrootte is %i Byte."
+
+msgid "Filesize is 0 Byte."
+msgstr "Bestandsgrootte is 0 Byte."
+
+msgid "Flat Covers"
+msgstr "Platte hoesjes"
+
+msgid "Flip-X"
+msgstr "X omwisselen"
+
+msgid "Folder"
+msgstr ""
+
+msgid "Font Scale Factor"
+msgstr "Lettertype Schaal Factor"
+
+msgid "Force 16:9"
+msgstr "Forceer 16:9"
+
+msgid "Force 4:3"
+msgstr "Forceer 4:3"
+
+msgid "Force NTSC"
+msgstr "Forceer NTSC"
+
+msgid "Force NTSC480p"
+msgstr "Forceer NTSC480p"
+
+msgid "Force PAL480p"
+msgstr "Forceer PAL480p"
+
+msgid "Force PAL50"
+msgstr "Forceer PAL50"
+
+msgid "Force PAL60"
+msgstr "Forceer PAL60"
+
+msgid "Force Titles from Disc"
+msgstr "Forceer titels van Disk"
+
+msgid "Force Widescreen"
+msgstr "Forceer Breedbeeld"
+
+msgid "Format"
+msgstr "Formatteer"
+
+msgid "Formatting, please wait..."
+msgstr "Bezig met formatteren..."
+
+msgid "Found missing images."
+msgstr "Missende plaatje gevonden."
+
+msgid "Frame"
+msgstr "Rand"
+
+msgid "Frame Projection Height"
+msgstr "Rand projectie hoogte"
+
+msgid "Frame Projection Width"
+msgstr "Rand projectie breedte"
+
+msgid "Frame Projection X-Offset"
+msgstr "Rand projectie X-compensatie"
+
+msgid "Frame Projection Y-Offset"
+msgstr "Rand projectie Y-compensatie"
+
+msgid "Frames"
+msgstr "Randen"
+
+msgid "Free Space"
+msgstr "Vrije ruimte"
+
+msgid "French"
+msgstr "Frans"
+
+msgid "Full"
+msgstr "Volledig"
+
+msgid "Full Cover Path"
+msgstr "Volledige hoesjes pad"
+
+msgid "Full Covers"
+msgstr "Volledige Hoesjes"
+
+msgid "Full Menu"
+msgstr "Volledig Menu"
+
+msgid "Full covers Download"
+msgstr "Volledige hoesjes download"
+
+msgid "Full shutdown"
+msgstr "Volledig uitzetten"
+
+msgid "GAMEID_Gamename"
+msgstr "SPELID_Spelnaam"
+
+msgid "GC Banner Scale"
+msgstr "GC Banner Schaal"
+
+msgid "GC Games"
+msgstr "GC Spellen"
+
+msgid "GC Install 32K Aligned"
+msgstr "GC Installeer 32K Aligned"
+
+msgid "GC Install Compressed"
+msgstr "GC Installeer Gecomprimeerd"
+
+msgid "GCT Cheatcodes Path"
+msgstr "Locatie GCT cheatcodes"
+
+msgid "GCT File created"
+msgstr "GCT bestand aangemaakt"
+
+msgid "GUI Settings"
+msgstr "Menu opties"
+
+msgid "GXDraw"
+msgstr ""
+
+msgid "GXFlush"
+msgstr ""
+
+msgid "Game Cube Games Delete"
+msgstr "GameCube Spel Verwijderen"
+
+msgid "Game Cube Install Menu"
+msgstr "GameCube Installatie Menu"
+
+msgid "Game ID"
+msgstr "Spel ID"
+
+msgid "Game IOS"
+msgstr "Spel IOS"
+
+msgid "Game Language"
+msgstr "Spel taal"
+
+msgid "Game Load"
+msgstr "Spel opties"
+
+msgid "Game Lock"
+msgstr "Spel vergrendelen"
+
+msgid "Game Only"
+msgstr "Alleen Spel"
+
+msgid "Game Region"
+msgstr "Spel Regio"
+
+msgid "Game Size"
+msgstr "Spel grootte"
+
+msgid "Game Sound Mode"
+msgstr "Spel geluid mode"
+
+msgid "Game Sound Volume"
+msgstr "Spel geluid volume"
+
+msgid "Game Split Size"
+msgstr "Spel splits grootte"
+
+msgid "Game Window Mode"
+msgstr "Spel Scherm Modus"
+
+msgid "Game is already installed:"
+msgstr "Spel is al geïnstalleerd:"
+
+msgid "Game's IOS"
+msgstr "Spel's IOS"
+
+msgid "Game/Install Partition"
+msgstr "Spel/Installatie partitie"
+
+msgid "GameCube"
+msgstr "GameCube"
+
+msgid "GameCube Controller"
+msgstr ""
+
+msgid "GameCube Mode"
+msgstr "GameCube Modus"
+
+msgid "GameCube Source"
+msgstr "GameCube Bron"
+
+msgid "Gamename [GAMEID]"
+msgstr "Spelnaam [SPELID]"
+
+msgid "Games"
+msgstr "Spellen"
+
+msgid "Generating GXGameCategories.xml"
+msgstr "Genereren GXGameCategories.xml"
+
+msgid "Genre:"
+msgstr "Genre:"
+
+msgid "German"
+msgstr "Duits"
+
+msgid "Getting file list..."
+msgstr "Bestandenlijst laden..."
+
+msgid "Getting game folder size..."
+msgstr "Spelmap grote berekenen..."
+
+msgid "Global Settings"
+msgstr "Globale instellingen"
+
+msgid "Grid Scroll Speed"
+msgstr "Raster Scroll Snelheid"
+
+msgid "HOME Menu"
+msgstr "HOME Menu"
+
+msgid "Hard Drive Settings"
+msgstr "Harddisk Instellingen"
+
+msgid "High Quality"
+msgstr "Hoge Kwaliteit"
+
+msgid "High/Low"
+msgstr "Hoog/Laag"
+
+msgid "Homebrew Apps Path"
+msgstr "Locatie homebrew apps"
+
+msgid "Homebrew Channel"
+msgstr "Homebrew Kanaal"
+
+msgid "Homebrew Launcher"
+msgstr "Homebrew Launcher"
+
+msgid "Hooktype"
+msgstr ""
+
+msgid "Hour"
+msgstr "Uur"
+
+msgid "How do you want to update?"
+msgstr "Hoe wil je updaten?"
+
+msgid "How to Shutdown?"
+msgstr "Hoe uitzetten?"
+
+msgid "Import Categories"
+msgstr "Importeer Categorieën"
+
+msgid "Import operation successfully completed."
+msgstr "Importeren succesvol afgerond."
+
+msgid "Importing categories"
+msgstr "Categorieën importeren"
+
+#, c-format
+msgid "Incoming file %0.2fKB"
+msgstr "Binnenkomend bestand %0.2fKB"
+
+#, c-format
+msgid "Incoming file %0.2fMB"
+msgstr "Binnenkomend bestand %0.2fMB"
+
+msgid "Individual"
+msgstr "Individueel"
+
+msgid "Initializing Network"
+msgstr "Netwerk initialiseren"
+
+msgid "Insert Disk"
+msgstr "Voer een disk in"
+
+msgid "Insert a Wii or a Game Cube Disc!"
+msgstr "Voer een Wii of GameCube Disk in!"
+
+msgid "Install"
+msgstr "Installeer"
+
+msgid "Install Canceled"
+msgstr "Installatie geannuleerd"
+
+msgid "Install Directories"
+msgstr "Installeer mappen"
+
+msgid "Install Error!"
+msgstr "Installatiefout!"
+
+msgid "Install Partitions"
+msgstr "Installatie Partitie"
+
+msgid "Install a game"
+msgstr "Spel installeren"
+
+msgid "Install error - Cleaning incomplete data."
+msgstr ""
+
+msgid "Install finished"
+msgstr "Installatie voltooid"
+
+msgid "Installing Game Cube Game..."
+msgstr "GameCube Spel Installeren..."
+
+msgid "Installing content"
+msgstr "Content Installeren"
+
+msgid "Installing game:"
+msgstr "Bezig met installeren:"
+
+msgid "Installing title..."
+msgstr "Titel installeren..."
+
+msgid "Invalid IOS number entered. Number must be -1 for inherit or 200 - 255."
+msgstr "Foutief IOS nummer ingevoerd. Het nummer moet -1 zijn voor volgen origineel of 200 - 255."
+
+msgid "Invalid wad file."
+msgstr "Fout wad bestand"
+
+msgid "It seems that you have some information that will be helpful to us. Please pass this information along to the DEV team."
+msgstr "Je hebt informatie gevonden die ons kan helpen. Geeft u alstublieft deze info door aan ons ontwikkelingsteam."
+
+msgid "Italian"
+msgstr "Italiaans"
+
+msgid "Jan"
+msgstr ""
+
+msgid "Japanese"
+msgstr "Japans"
+
+msgid "Japanese Patch"
+msgstr "Japanse Patch"
+
+msgid "Joypad"
+msgstr "Joypad"
+
+msgid "July"
+msgstr "Jul"
+
+msgid "June"
+msgstr "Jun"
+
+msgid "KPAD Read"
+msgstr ""
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "Korean"
+msgstr "Koreaans"
+
+msgid "LED Activity"
+msgstr "LED Activiteit"
+
+msgid "Language Files"
+msgstr "Taalbestanden"
+
+msgid "Language change:"
+msgstr "Taal wijzigen:"
+
+msgid "Languagefiles Path"
+msgstr "Locatie Taalbestanden"
+
+msgid "Languagepath changed."
+msgstr "Locatie taal gewijzigd."
+
+msgid "Launching Wii games with emulated nand only works on d2x cIOS! Change game IOS to a d2x cIOS first."
+msgstr "Spellen met EmuNand werken alleen op een d2x cIOS! Verander eerst de spel IOS naar een d2x cIOS."
+
+msgid "Launching emulated nand channels only works on d2x cIOS! Change game IOS to a d2x cIOS first."
+msgstr "Nand kanalen met EmuNand werken alleen op een d2x cIOS! Verander eerst de spel IOS naar een d2x cIOS."
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Like SysMenu"
+msgstr "Als SysteemMenu"
+
+msgid "List on Gamelaunch"
+msgstr "Lijst bij Spelstart"
+
+msgid "Load"
+msgstr "Laad"
+
+msgid "Load From SD/USB"
+msgstr "Laden van SD/USB"
+
+#, c-format
+msgid "Load file from: %s ?"
+msgstr "Laad bestand van: %s ?"
+
+msgid "Load this DOL as alternate DOL?"
+msgstr "Deze DOL als alternatieve DOL gebruiken?"
+
+msgid "Loader Settings"
+msgstr "Loader Instellingen"
+
+msgid "Loader's IOS"
+msgstr "Loader's IOS"
+
+msgid "Loading standard language."
+msgstr "Standaardtaal laden."
+
+msgid "Loading standard music."
+msgstr "Standaardmuziek laden."
+
+msgid "Lock Console"
+msgstr "Console vergrendelen"
+
+msgid "Lock USB Loader GX"
+msgstr "Vergrendel USB Loader GX"
+
+msgid "Locked"
+msgstr "Vergrendeld"
+
+msgid "Log to file"
+msgstr ""
+
+msgid "Loop Directory"
+msgstr "Herhaal Map"
+
+msgid "Loop Music"
+msgstr "Herhaal Muziek"
+
+msgid "Loop Sound"
+msgstr "Geluid herhalen"
+
+msgid "Low Quality"
+msgstr "Lage kwaliteit"
+
+msgid "Low/High"
+msgstr "Laag/Hoog"
+
+msgid "MIOS (Default & Customs)"
+msgstr "MIOS (Standaard & Aangepast)"
+
+msgid "Main DOL"
+msgstr "Hoofd DOL"
+
+msgid "Main GameCube Games Path"
+msgstr "Hoofd GameCube Spellen Locatie"
+
+msgid "Main GameCube Path"
+msgstr "Hoofd GameCube Locatie"
+
+msgid "Main Path"
+msgstr "Hoofd Locatie"
+
+msgid "Manual (40~120)"
+msgstr ""
+
+msgid "Mar"
+msgstr "Mrt"
+
+msgid "Mark new games"
+msgstr "Markeer nieuwe spellen"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Memory Card Blocks Size"
+msgstr ""
+
+msgid "Memory Card Emulation"
+msgstr "Memory Card Emulatie"
+
+msgid "Memory Card with 2043 blocs has issues with Nintendont. Use at your own risk."
+msgstr ""
+
+msgid "Messageboard Update"
+msgstr "Prikbord Update"
+
+msgid "Motion+ Video"
+msgstr "Mation+ Video"
+
+msgid "Mount DVD drive"
+msgstr "DVD Laden"
+
+msgid "Mount USB at launch"
+msgstr ""
+
+msgid "Move File"
+msgstr ""
+
+msgid "Multiple Partitions"
+msgstr "Meerdere partities"
+
+msgid "Music Loop Mode"
+msgstr "Muziek Herhaal Mode"
+
+msgid "Music Volume"
+msgstr "Muziekvolume"
+
+msgid "NMM Mode"
+msgstr "NMM Modus"
+
+msgid "Nand Chan. Emulation"
+msgstr "Nand Kan. Emulatie"
+
+msgid "Nand Channels"
+msgstr "Nand Kanalen"
+
+msgid "Nand Emu Channel Path"
+msgstr "Nand Emu Kanaal Locatie"
+
+msgid "Nand Emu Path"
+msgstr "Nand Emu Locatie"
+
+msgid "Nand Emulation"
+msgstr "Nand Emulatie"
+
+msgid "Nand Emulation is only available on D2X cIOS!"
+msgstr "Nand Emulatie is alleen mogelijk met D2X cIOS"
+
+msgid "Nand Emulation only works on FAT/FAT32 partitions!"
+msgstr "Nand Emulatie werkt alleen op FAT/FAT32 partities!"
+
+msgid "Nand Saves Emulation"
+msgstr "Nand Opslag Emulatie"
+
+msgid "Native Controller"
+msgstr ""
+
+msgid "Neek"
+msgstr ""
+
+msgid "Neek NAND path selection failed."
+msgstr ""
+
+msgid "Neek kernel file not found."
+msgstr ""
+
+msgid "Neek kernel loading failed."
+msgstr ""
+
+msgid "Neek2o does not support 'Emulated NAND Channel Path' on SD! Please setup Uneek2o instead."
+msgstr ""
+
+msgid "Neither"
+msgstr "Geen"
+
+msgid "Network is not initiated."
+msgstr "Netwerk is niet gestart."
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Nintendont"
+msgstr ""
+
+msgid "Nintendont Loader Path"
+msgstr "Nintendont Loader Locatie"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No Cheatfile found"
+msgstr "Geen cheatbestand gevonden"
+
+msgid "No DOL file found on disc."
+msgstr "Geen DOL bestand gevonden op disk."
+
+msgid "No Disc+"
+msgstr "Geen Disk+"
+
+msgid "No Splitting"
+msgstr "Niet splitsen"
+
+msgid "No URL or Path specified."
+msgstr "Geen URL of pad gespecificeerd."
+
+msgid "No WBFS or FAT/NTFS/EXT partition found"
+msgstr "Geen WBFS of FAT/NTFS/EXT partitie gevonden"
+
+msgid "No Wiinnertag.xml found in the config path. Do you want an example file created?"
+msgstr "Geen Wiinertag.xml gevonden in het configuratie pad. Wil je een voorbeeld bestand maken?"
+
+msgid "No change"
+msgstr ""
+
+msgid "No cheats were selected! Should the GCT file be deleted?"
+msgstr "Geen cheats geselecteerd! Moet het GCT bestand worden verwijderd?"
+
+msgid "No data could be read."
+msgstr "Data kon niet gelezen worden."
+
+msgid "No disc inserted."
+msgstr "Geen schijf ingevoerd."
+
+msgid "No favorites selected."
+msgstr "Geen favorieten geselecteerd."
+
+msgid "No file missing!"
+msgstr "Geen missende bestanden!"
+
+msgid "No games found on the disc"
+msgstr "Geen spellen gevonden op disk"
+
+msgid "No language files to update on your devices! Do you want to download new language files?"
+msgstr "Geen taalbestanden om te updateten op je apparaten! Wil je nieuwe taalbestanden downloaden?"
+
+msgid "No new updates."
+msgstr "Geen nieuwe updates."
+
+msgid "No themes found on the site."
+msgstr "Geen thema's gevonden op de site."
+
+msgid "No themes found."
+msgstr "Geen thema's gevonden."
+
+msgid "No wad file found in this folder."
+msgstr ""
+
+msgid "NoSSL only"
+msgstr ""
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Not Initialized"
+msgstr "Niet Geïnitialiseerd"
+
+msgid "Not a Wii or a Game Cube Disc"
+msgstr "Geen Wii of GameCube Disk"
+
+msgid "Not a valid URL"
+msgstr "Geen geldige URL"
+
+msgid "Not a valid URL path"
+msgstr "Geen geldig URL pad"
+
+msgid "Not a valid domain"
+msgstr "Geen geldig domein"
+
+msgid "Not enough free memory."
+msgstr "Niet genoeg vrije ruimte."
+
+msgid "Not enough free space on device."
+msgstr "Niet genoeg vrije ruimte op apparaat."
+
+msgid "Not enough free space!"
+msgstr "Niet genoeg vrije ruimte!"
+
+msgid "Not enough memory for FST."
+msgstr "Niet genoeg ruimte voor FST."
+
+msgid "Not enough memory."
+msgstr "Onvoldoende geheugen."
+
+msgid "Not required"
+msgstr "Niet nodig"
+
+msgid "Not supported format!"
+msgstr "Formaat niet ondersteund!"
+
+msgid "Nothing selected to delete."
+msgstr "Niets geselecteerd om te verwijderen."
+
+msgid "Nothing selected to install."
+msgstr "Niets geselecteerd om te installeren."
+
+msgid "Nov"
+msgstr ""
+
+msgid "OFF"
+msgstr "Uit"
+
+msgid "OK"
+msgstr ""
+
+msgid "ON"
+msgstr "Aan"
+
+msgid "ON (Multi)"
+msgstr ""
+
+msgid "OSReport"
+msgstr ""
+
+msgid "OSSleepThread"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Ocarina is not supported with neek2o yet. Launch game anyway?"
+msgstr ""
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Official Site:"
+msgstr "Officiële site:"
+
+msgid "Offset"
+msgstr "Compensatie"
+
+msgid "Ok"
+msgstr ""
+
+msgid "One Line A"
+msgstr ""
+
+msgid "One Line B"
+msgstr ""
+
+msgid "Only Game Partition"
+msgstr "Alleen Spel Partitie"
+
+msgid "Only for Install"
+msgstr "Alleen bij installeren"
+
+msgid "Original"
+msgstr "Origineel"
+
+msgid "Original/Customs"
+msgstr "Origineel/Aangepast"
+
+msgid "PAD Hook"
+msgstr ""
+
+msgid "PAL50 Patch"
+msgstr ""
+
+msgid "Parental Control"
+msgstr "Ouderlijk toezicht"
+
+msgid "Partial"
+msgstr "Gedeeltelijk"
+
+msgid "Partition"
+msgstr "Partitie"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password Changed"
+msgstr "Wachtwoord gewijzigd"
+
+msgid "Password has been changed"
+msgstr "Wachtwoord is gewijzigd"
+
+msgid "Patch Country Strings"
+msgstr "Land Teksten Patchen"
+
+msgid "Path Changed"
+msgstr "Pad gewijzigd"
+
+msgid "Permission denied."
+msgstr "Toegang geweigerd."
+
+msgid "Pick from a list"
+msgstr "Kiezen uit lijst"
+
+msgid "Pixels"
+msgstr ""
+
+msgid "Play Count"
+msgstr "Gespeeld"
+
+msgid "Play Next"
+msgstr "Speel Volgende"
+
+msgid "Play Once"
+msgstr "Speel één maal"
+
+msgid "Play Previous"
+msgstr "Speel Vorige"
+
+msgid "Playing Music:"
+msgstr "Speelt nu:"
+
+msgid "Please wait"
+msgstr "Even geduld"
+
+msgid "Please wait..."
+msgstr "Even geduld..."
+
+msgid "Power off the Wii"
+msgstr "Wii uitschakelen"
+
+msgid "Prev"
+msgstr "Vorige"
+
+msgid "Private Server"
+msgstr ""
+
+msgid "Process finished."
+msgstr "Proces afgerond."
+
+msgid "Progressive Patch"
+msgstr ""
+
+msgid "Prompts Buttons"
+msgstr "Weergave knoppen"
+
+msgid "Published by"
+msgstr "Uitgegeven door"
+
+msgid "Quick Boot"
+msgstr "Snelle start"
+
+msgid "Random Directory Music"
+msgstr "Willekeurige Map Muziek"
+
+msgid "Real Nand"
+msgstr "Echte Nand"
+
+msgid "Receiving file from:"
+msgstr "Bestand ontvangen van:"
+
+msgid "Region Free"
+msgstr ""
+
+msgid "Region Patch"
+msgstr "Regio Patch"
+
+msgid "Released"
+msgstr "Uitgegeven"
+
+msgid "Reload SD"
+msgstr "SD herladen"
+
+msgid "Reloading game list now, please wait..."
+msgstr "Spellijst wordt herladen, een moment..."
+
+msgid "Remember Unlock"
+msgstr "Unlock onthouden"
+
+msgid "Remove Read Speed Limit"
+msgstr ""
+
+msgid "Remove update"
+msgstr "Verwijder update"
+
+msgid "Rename Game Title"
+msgstr "Speltitel veranderen"
+
+msgid "Rename category"
+msgstr "Hernoem categorie"
+
+msgid "Reset"
+msgstr "Resetten"
+
+msgid "Reset BG Music"
+msgstr "Reset achtergrond muziek"
+
+msgid "Reset Playcounter"
+msgstr "Speeltellers resetten"
+
+msgid "Reset to default BGM?"
+msgstr "Reset naar standaard achtergrond muziek?"
+
+msgid "Restarting..."
+msgstr "Herstarten..."
+
+msgid "Return"
+msgstr "Terug"
+
+msgid "Return To"
+msgstr "Terug naar"
+
+msgid "Return to Wii Menu"
+msgstr "Terug naar Wii menu"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Rotating Disc"
+msgstr "Draaiende Disk"
+
+msgid "Round"
+msgstr ""
+
+msgid "Rumble"
+msgstr "Trilfunctie"
+
+msgid "SChinese"
+msgstr "SChinees"
+
+msgid "SD"
+msgstr ""
+
+msgid "SD Card could not be accessed."
+msgstr "Geen toegang tot SD kaart."
+
+msgid "SD GameCube Games Path"
+msgstr "SD GameCube Spellen Pad"
+
+msgid "SD GameCube Path"
+msgstr "SD GameCube Pad"
+
+msgid "SD Path"
+msgstr "SD Pad"
+
+msgid "SFX Volume"
+msgstr "Volume geluidseffecten"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save Failed. No device inserted?"
+msgstr "Opslaan Mislukt. Geen media aanwezig?"
+
+msgid "Save Game List to"
+msgstr "Spellenlijst opslaan in"
+
+msgid "Save List"
+msgstr "Save lijst"
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Savegame might not exist for this game."
+msgstr "Savegame bestaat wellicht niet voor dit spel."
+
+msgid "Screensaver"
+msgstr "Schermbeveiliging"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Select DOL Offset"
+msgstr "Selecteer DOL Offset"
+
+msgid "Select a DOL"
+msgstr "Selecteer een DOL"
+
+msgid "Select a DOL from Game"
+msgstr "Selecteer een DOL van Spel"
+
+msgid "Select game categories"
+msgstr "Selecteer spel categorieën"
+
+msgid "Select loader mode"
+msgstr "Selecteer loader modus"
+
+msgid "Select the NAND Emu Path to use."
+msgstr ""
+
+msgid "Select titles sources."
+msgstr "Selecteer titels bron."
+
+msgid "Sept"
+msgstr "Sep"
+
+msgid "Set Search-Filter"
+msgstr "Zoekfilter instellen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Settings File"
+msgstr ""
+
+msgid "Show Categories"
+msgstr "Toon categorieën"
+
+msgid "Show Favorite on banner"
+msgstr ""
+
+msgid "Show Free Space"
+msgstr "Vrije ruimte weergeven"
+
+msgid "Show Play Count"
+msgstr "Geef speelteller weer"
+
+msgid "Show SD"
+msgstr "Geef SD weer"
+
+msgid "Shutdown System"
+msgstr "Systeem uitzetten"
+
+msgid "Shutdown Wii"
+msgstr "Wii uitzetten"
+
+msgid "Skip Errors"
+msgstr "Fouten overslaan"
+
+msgid "Skip IPL"
+msgstr ""
+
+msgid "Sneek Video Patch"
+msgstr ""
+
+msgid "Sorry, the theme downloader menu is not working anymore because http://wii.spiffy360.com now requires user registration."
+msgstr ""
+
+msgid "Sort alphabetically"
+msgstr "Alfabetisch sorteren"
+
+msgid "Sort by number of players"
+msgstr "Sorteer op aantal spelers"
+
+msgid "Sort by rank"
+msgstr "Sorteren op rang"
+
+msgid "Sort order by most played"
+msgstr "Sorteer op meest gespeeld"
+
+msgid "Sound"
+msgstr "Geluid"
+
+msgid "Sound Settings"
+msgstr "Geluids Instellingen"
+
+msgid "Sound+BGM"
+msgstr "Geluid+Achtergrondmuziek"
+
+msgid "Sound+Quiet"
+msgstr "Geluid+Stilte"
+
+msgid "Spanish"
+msgstr "Spaans"
+
+msgid "Special thanks to:"
+msgstr "Speciale dank aan:"
+
+msgid "Split each 2GB"
+msgstr "Splits iedere 2GB"
+
+msgid "Split each 4GB"
+msgstr "Splits iedere 4GB"
+
+msgid "Standby"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Success."
+msgstr "Succes."
+
+msgid "Success:"
+msgstr "Succes:"
+
+msgid "Successfully Saved"
+msgstr "Met succes opgeslagen!"
+
+msgid "Successfully Updated"
+msgstr "Met succes ge-update!"
+
+msgid "Successfully copied"
+msgstr "Met succes gekopiëerd"
+
+msgid "Successfully deleted:"
+msgstr "Met succes gedelete"
+
+msgid "Successfully extracted theme."
+msgstr "Thema succesvol uitgepakt"
+
+msgid "Successfully installed:"
+msgstr "Met succes geïnstalleerd"
+
+msgid "Successfully updated."
+msgstr "Met succes geüpdate"
+
+msgid "Switching to channel list mode."
+msgstr "Schakel naar kanaal lijst modus"
+
+msgid "Sync FAT32 FS Info"
+msgstr ""
+
+msgid "Synchronizing..."
+msgstr "Synchroniseren..."
+
+msgid "System Default"
+msgstr "Systeem standaard"
+
+msgid "TChinese"
+msgstr "Chinees Trad."
+
+msgid "TXT Cheatcodes Path"
+msgstr "Locatie TXT cheats"
+
+msgid "The .them file was not found in the zip."
+msgstr "Het .them bestand is niet gevonden in het zip bestand."
+
+msgid "The Force Widescreen setting requires DIOS MIOS v2.1 or more. This setting will be ignored."
+msgstr "De optie Forceer Breedbeeld benodigd DIOS MIOS v2.1 of hoger. Deze instelling word genegeerd."
+
+msgid "The Miis will be extracted to your emu nand path and emu nand channel path. Attention: All existing files will be overwritten."
+msgstr "De Miis zullen worden uitgepakt naar EmuNand pad en EmuNand kanaalpad. Let op: Alle bestaande bestanden worden overschreven."
+
+msgid "The No Disc+ setting requires DIOS MIOS 2.2 update2. This setting will be ignored."
+msgstr "De optie Geen Disk+ benodigd DIOS MIOS 2.2 update2. Deze instelling word genegeerd."
+
+msgid "The SYSCONF file will be extracted to your emu nand path and emu nand channel path. Attention: All existing files will be overwritten."
+msgstr "Het SYSCONF bestand zal uitgepakt worden naar EmuNand pad en EmuNand kanaal pad. Let op: Alle bestaande bestanden worden overschreven."
+
+msgid "The application might crash if there is currently a read/write access to the SD card!"
+msgstr "De applicatie kan crashen als er al schrijf/lees rechten zijn voor de SD kaart!"
+
+msgid "The entered directory does not exist. Would you like to create it?"
+msgstr "De opgegeven map bestaat niet. Wil je deze aanmaken?"
+
+msgid "The files will be extracted to your emu nand save and channel path. Attention: All existing files will be overwritten."
+msgstr "De bestanden worden uitgepakt naar je EmuNand Save en Kanaal pad. Let op: Alle bestaande bestanden worden overschreven."
+
+msgid "The game is on SD Card."
+msgstr "Het spel is op de SD kaart."
+
+msgid "The game is on USB."
+msgstr "Het spel is op USB."
+
+msgid "The save game will be extracted to your emu nand path."
+msgstr "De Savegame wordt geëxporteerd naar uw EmuNand Pad."
+
+msgid "The save games will be extracted to your emu nand save and channel path. Attention: All existing files will be overwritten."
+msgstr "De opgeslagen spellen worden uitgepakt naar je EmuNand Save en Kanaal pad. Let op: Alle bestaande bestanden worden overschreven."
+
+msgid "The wad file was installed"
+msgstr "Het wad bestand is geïnstalleerd."
+
+#, c-format
+msgid "The wad installation failed with error %i"
+msgstr "De wad installatie is mislukt met fout %i"
+
+msgid "Theme Downloader"
+msgstr "Thema downloader"
+
+msgid "Theme Menu"
+msgstr "Thema Menu"
+
+msgid "Theme Path"
+msgstr "Locatie thema"
+
+msgid "Theme Title:"
+msgstr "Thema Titel:"
+
+msgid "Themes by www.spiffy360.com"
+msgstr "Thema's door www.spiffy360.com"
+
+msgid "This IOS is the BootMii ios. If you are sure it is not BootMii and you have something else installed there than ignore this warning."
+msgstr "Deze IOS is de BootMii IOS. Als je zeker weet dat dit niet BootMii is en daar iets anders is geïnstalleerd kun je deze waarschuwing negeren."
+
+msgid "This IOS was not found on the titles list. If you are sure you have it installed than ignore this warning."
+msgstr "Deze IOS is niet gevonden in de titel lijst. Als je zeker weet dat deze geïnstalleerd is kun je deze waarschuwing negeren."
+
+msgid "This Nintendont version does not support games on USB."
+msgstr ""
+
+msgid "This Nintendont version is not correctly supported. Auto boot disabled."
+msgstr ""
+
+msgid "This game has multiple discs. Please select the disc to launch."
+msgstr "Dit spel heeft meerdere disks. Geef aub aan welke er gestart dient te worden."
+
+msgid "This patch might not work with all games. If a game doesn't boot, disable it in individual game settings menu."
+msgstr ""
+
+msgid "This path must be on SD!"
+msgstr "Dit pad moet op de SD kaart zijn!"
+
+msgid "Time left:"
+msgstr "Tijd resterend:"
+
+msgid "Timer Fix"
+msgstr "Timer Fix"
+
+msgid "Title Launcher"
+msgstr "Titel Launcher"
+
+msgid "Titles Path"
+msgstr ""
+
+msgid "Titles from GameTDB"
+msgstr "Titels van GameTDB"
+
+msgid "To run GameCube games from Disc you need to set the GameCube mode to MIOS in the game settings."
+msgstr "Om GameCube spellen vanaf disk te spelen moet je de GameCube modus op MIOS zetten in de spel instellingen."
+
+#, c-format
+msgid "To run GameCube games with %s you need to place them on an USB FAT32 partition."
+msgstr "Om GameCube games met %s te spelen moet je ze op een USB FAT32 partitie plaatsen."
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on the first primary FAT32 partition."
+msgstr ""
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on the first primary partition of the Hard Drive."
+msgstr ""
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' to an USB FAT32 partition."
+msgstr "Om GameCube spellen met %s te spelen moet je je 'Hoofd GameCube Pad' op een USB FAT32 partitie instellen."
+
+#, c-format
+msgid "To run GameCube games with %s you need to use a 512 bytes/sector Hard Drive."
+msgstr "Om GameCube spellen met %s te spelen moet je gebruik maken van een 512 bytes/sector schijf."
+
+#, c-format
+msgid "To run GameCube games with %s you need to use a partition with 32k bytes/cluster or less."
+msgstr "Om GameCube spellen met %s te spelen moet je gebruik maken van een partitie met 32k bytes/cluster of minder."
+
+msgid "To run GameCube games with Devolution you need the loader.bin file in your Devolution Loader Path."
+msgstr "Om GameCube spellen met Devolution te spelen moet heb je het loader.bin bestand nodig in je Devolution Loader Locatie"
+
+msgid "To run GameCube games with Nintendont you need the boot.dol file in your Nintendont Loader Path."
+msgstr "Om GameCube spellen met Nintendont te spelen heb je boot.dol nodig in je Nintendont Loader Pad"
+
+#, c-format
+msgid "To use HID with %s you need the %s file."
+msgstr ""
+
+msgid "To use neek you need to set your 'Emulated NAND Channel Path' on the first primary partition of the Hard Drive."
+msgstr ""
+
+msgid "To use neek you need to set your 'Emulated NAND Channel Path' to a FAT32 partition."
+msgstr ""
+
+msgid "To use neek you need to use a 512 bytes/sector Hard Drive."
+msgstr ""
+
+#, c-format
+msgid "To use ocarina with %s you need the %s file."
+msgstr ""
+
+msgid "Tooltip Delay"
+msgstr "Hulpballon Vertraging"
+
+msgid "Tooltips"
+msgstr "Hulpballonnen"
+
+msgid "Transfer failed"
+msgstr "Overdracht mislukt."
+
+msgid "Triforce Arcade Mode"
+msgstr ""
+
+msgid "Two Lines"
+msgstr ""
+
+msgid "USB"
+msgstr ""
+
+msgid "USB Device not initialized."
+msgstr ""
+
+msgid "USB Loader GX is protected"
+msgstr "USB Loader GX is vergrendeld"
+
+msgid "USB Port"
+msgstr "USB Poort"
+
+msgid "USB Port changing is only supported on Hermes cIOS."
+msgstr "USB Poort wisselen word alleen door Hermes cIOS ondersteund."
+
+msgid "USB-HID Controller"
+msgstr "USB-HID Controller"
+
+msgid "USBloaderGX couldn't verify Nintendont boot.dol file. Launch this boot.dol anyway?"
+msgstr "USBLoaderGX kon Nintendont boot.dol niet verifiëren. Deze boot.dol toch starten?"
+
+msgid "USBloaderGX couldn't write Nintendont config file. Launch Nintendont anyway?"
+msgstr "USBLoaderGX kon Nintendont config bestand niet schrijven. Nintendont toch starten?"
+
+msgid "USBloaderGX r1218 is required for Nintendont Alpha v0.1. Please update your Nintendont boot.dol version."
+msgstr ""
+
+msgid "Uninstall"
+msgstr "Verwijderen"
+
+msgid "Uninstall Game"
+msgstr "Spel verwijderen"
+
+msgid "Uninstall Menu"
+msgstr "Menu Verwijderen"
+
+msgid "Uninstall all"
+msgstr "Verwijder alle"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Unlock USB Loader GX"
+msgstr "Ontgrendel USB Loader GX"
+
+msgid "Unlocked"
+msgstr "Vrijgegeven"
+
+msgid "Unsupported format, try to extract manually TempTheme.zip."
+msgstr "Niet ondersteund formaat, probeer TempTheme.zip handmatig uit te pakken."
+
+msgid "Update"
+msgstr "Updaten"
+
+msgid "Update All"
+msgstr "Alles updaten"
+
+msgid "Update DOL"
+msgstr "DOL updaten"
+
+msgid "Update Files"
+msgstr "Bestanden Updaten"
+
+msgid "Update Path"
+msgstr "Updatelocatie"
+
+msgid "Update all Language Files"
+msgstr "Alle taalbestanden updaten"
+
+msgid "Update failed"
+msgstr "Update mislukt"
+
+msgid "Update successfull"
+msgstr "Update succesvol"
+
+msgid "Updating Language Files:"
+msgstr "Taalbestanden updaten:"
+
+msgid "Uploaded ZIP file installed to homebrew directory."
+msgstr "Geuploade ZIP is geïnstalleerd in je homebrew locatie."
+
+msgid "Use System Font"
+msgstr "Gebruik Systeem lettertype"
+
+msgid "Use global"
+msgstr "Gebruik globaal"
+
+msgid "VBI (Default)"
+msgstr ""
+
+msgid "VIDTV Patch"
+msgstr "VIDTV Patch"
+
+msgid "Version:"
+msgstr "Versie:"
+
+#, c-format
+msgid "Version: %s"
+msgstr "Versie: %s"
+
+msgid "Video Deflicker"
+msgstr ""
+
+msgid "Video Mode"
+msgstr "Video Modus"
+
+msgid "Video Scale Value"
+msgstr ""
+
+msgid "Video offset"
+msgstr ""
+
+msgid "Video scale"
+msgstr ""
+
+msgid "Virtual Pointer Speed"
+msgstr "Virtuele Muis Snelheid"
+
+msgid "WDM Files Path"
+msgstr "Locatie WDM bestanden"
+
+msgid "WIP Patches Path"
+msgstr "Locatie WIP patches"
+
+msgid "Waiting..."
+msgstr "Wachten..."
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "Warning:"
+msgstr "Waarschuwing:"
+
+msgid "What do you want to do?"
+msgstr "Wat wil je doen?"
+
+msgid "What do you want to update?"
+msgstr "Wat wil je updaten?"
+
+msgid "What should be deleted for this game title:"
+msgstr "Wat moet er verwijderd worden voor deze spel titel:"
+
+msgid "What to extract from NAND?"
+msgstr "Wat uitpakken van NAND?"
+
+msgid "Where should the game be installed to?"
+msgstr "Waar moet het spel naar geïnstelleerd worden?"
+
+msgid "Where to dump NAND?"
+msgstr ""
+
+msgid "Which device do you want to use for Nintendont files?"
+msgstr ""
+
+msgid "Which mode do you want to use?"
+msgstr ""
+
+msgid "WiFi Features"
+msgstr "WiFi Functies"
+
+msgid "Widescreen Factor"
+msgstr "Breedbeeld Factor"
+
+msgid "Widescreen Fix"
+msgstr "Breedbeeld Fix"
+
+msgid "Wii Games"
+msgstr "Wii Spellen"
+
+msgid "Wii Menu"
+msgstr "Wii Menu"
+
+msgid "Wii Settings"
+msgstr "Wii Instellingen"
+
+msgid "WiiTDB.xml"
+msgstr ""
+
+msgid "WiiTDB.xml is up to date."
+msgstr "WiiTDB.xml is up to date."
+
+msgid "WiiU Widescreen"
+msgstr ""
+
+msgid "Wiilight"
+msgstr "WiiLight"
+
+msgid "Wiimmfi.de"
+msgstr ""
+
+msgid "Wiinnertag"
+msgstr ""
+
+msgid "Wiinnertag Path"
+msgstr "Wiinertag Pad"
+
+msgid "Wiinnertag requires you to enable automatic network connect on application start. Do you want to enable it now?"
+msgstr "Wiinnertag vereist dat automatisch netwerk verbinden bij applicatie start aan staat. Wil je dit nu aanzetten?"
+
+msgid "Wiird Debugger"
+msgstr "Wiird Debugger"
+
+#, c-format
+msgid "Write error on file: %s"
+msgstr "Schrijf fout bij bestand: %s"
+
+msgid "Writing GXGameCategories.xml"
+msgstr "GXGameCategories.xml schrijven"
+
+msgid "Wrong Password"
+msgstr "Fout wachtwoord"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are trying to select a FAT32/NTFS/EXT partition with cIOS 249 Rev < 18. This is not supported. Continue on your own risk."
+msgstr "Je probeert een FAT32/NTFS/EXT partitie te selecteren met cIOS 249 Rev < 18. Dit word niet ondersteund. Verder gaan is op eigen risico."
+
+msgid "You can select or format a partition or use the channel loader mode."
+msgstr "Je kunt een een partitie selecteren of formateren of gebruik maken van de kanaal loader modus."
+
+msgid "You cannot delete this category."
+msgstr "Je kunt deze categorie niet verwijderen."
+
+msgid "You need neek2o to load EmuNAND from sub-folders."
+msgstr ""
+
+msgid "You need to install DIOS MIOS Lite v1.2 or a newer version."
+msgstr "Je moet DIOS MIOS Lite v1.2 of hoger installeren."
+
+msgid "You need to install an additional GameCube loader or select a different GameCube Mode to launch GameCube games from USB or SD card."
+msgstr "Je moet een extra GameCube loader installeren of selecteer een andere GameCube Modus om GameCube spellen te spelen vanaf USB of SD kaart."
+
+msgid "Your current GameCube partition is not compatible. Please update Nintendont."
+msgstr ""
+
+msgid "Zoom Duration (Speed)"
+msgstr "Zoom tijd (snelheid)"
+
+msgid "and translators for language files updates"
+msgstr "en vertalers voor taalbestand updates"
+
+msgid "available"
+msgstr "beschikbaar"
+
+msgid "does not exist!"
+msgstr "bestaat niet!"
+
+msgid "does not exist!  Loading game without cheats."
+msgstr "bestaat niet! Spel word geladen zonder cheats."
+
+msgid "files left"
+msgstr "bestanden resterend"
+
+msgid "for FAT/NTFS support"
+msgstr "voor FAT/NTFS ondersteuning"
+
+msgid "for GameTDB and hosting covers / disc images"
+msgstr "voor GameTDB en het hosten van covers en Disc plaatjes"
+
+msgid "for Ocarina"
+msgstr "voor Ocarina"
+
+msgid "for diverse patches"
+msgstr "voor diverse correcties"
+
+msgid "for his awesome tool LibWiiGui"
+msgstr "voor zijn geweldige tool LibWiiGui"
+
+msgid "for hosting the themes"
+msgstr "voor het hosten van de thema's"
+
+msgid "for the USB Loader source"
+msgstr "voor USB Loader source"
+
+msgid "for their work on the wiki page"
+msgstr "voor hun werk op de wiki pagina"
+
+msgid "formatted!"
+msgstr "geformatteerd!"
+
+msgid "free"
+msgstr "vrij"
+
+msgid "ms"
+msgstr ""
+
+msgid "not set"
+msgstr "niet ingesteld"
+
+msgid "of"
+msgstr "van"
+
+msgid "seconds left"
+msgstr "seconde resterend"
+
+#~ msgid "Install WAD to EmuNand"
+#~ msgstr "Installeer WAD naar EmuNand"
+
+#~ msgid "WAD Installation"
+#~ msgstr "WAD Installatie"
+
+#~ msgid "GameTDB Path"
+#~ msgstr "Map naar GameTBD"
+
+#~ msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on a primary partition."
+#~ msgstr "Om GameCube spellen met %s te spelen moet je je 'Hoofd GameCube Pad' op een primary partitie zetten."
+
+#~ msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on the first partition of the Hard Drive."
+#~ msgstr "Om GameCube spellen met %s te spelen moet je je 'Hoofd GameCube Pad' op de eerste partitie van de hardeschijf zetten."
+
+#~ msgid "Error 002 fix"
+#~ msgstr "Herstel fout 002"
+
+#~ msgid "Use Game Settings"
+#~ msgstr "Gebruik spel instellingen"
+
+#~ msgid "Main tester:"
+#~ msgstr "Hoofd tester:"
+
+#~ msgid "Nintendont currently only supports GameCube games on SD card."
+#~ msgstr "Nintendont ondersteund momenteel alleen GameCube games op SD kaart."
+
+#~ msgid "USB Device not found."
+#~ msgstr "USB Apparaat niet gevonden."
