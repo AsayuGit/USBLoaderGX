@@ -37,7 +37,7 @@ EOF
 fi
 
 
-rev_new=`expr $rev_new + 1`
+rev_new=`expr $rev_new`
 rev_date=`date -u +%Y%m%d%H%M%S`
 
 cat <<EOF > ./USBLoaderGX/meta.xml
