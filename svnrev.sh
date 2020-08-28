@@ -5,7 +5,7 @@ rev_new_raw=$(svnversion -n . 2>/dev/null | tr '\n' ' ' | tr -d '\r')
 
 
 rev_new_raw=$(echo $rev_new_raw | sed 's/[^0-9]*\([0-9]*\)\(.*\)/\1 \2/')
-rev_new=1273
+rev_new=1274
 a=$(echo $rev_new_raw | sed 's/\([0-9]*\).*/\1/')
 let "a+=0"
 #find max rev
