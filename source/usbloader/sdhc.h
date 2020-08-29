@@ -10,7 +10,7 @@ extern "C"
 #endif
 
 	/* Prototypes */
-	bool SDHC_Init(void);
+	s32 SDHC_Init(void); // Asayu
 	bool SDHC_Close(void);
 	bool SDHC_ReadSectors(u32, u32, void *);
 	bool SDHC_WriteSectors(u32, u32, void *);

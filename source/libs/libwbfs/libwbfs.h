@@ -14,8 +14,7 @@ extern "C"
 	enum
 	{
 		WBFS_DEVICE_USB = 1, /* USB device */
-		WBFS_DEVICE_SDHC
-	/* SDHC device */
+		WBFS_DEVICE_SDHC = 2 /* SDHC device */
 	};
 
 	typedef u32 be32_t;

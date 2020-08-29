@@ -25,9 +25,10 @@ static void *sdhc_buf2;
 
 extern void* SYS_AllocArena2MemLo(u32 size, u32 align);
 
-bool SDHC_Init(void)
+s32 SDHC_Init(void) // Asayu
 {
 	s32 ret;
+	s32 ReturnValue = 0; // Asayu
 
 	if (sdhc_mode_sd)
 	{
@@ -41,7 +42,11 @@ bool SDHC_Init(void)
 	if (hid < 0)
 	{
 		hid = iosCreateHeap(SDHC_HEAPSIZE);
-		if (hid < 0) goto err;
+		if (hid < 0)
+		{
+			ReturnValue = -1; // Asayu
+			goto err;
+		}
 	}
 
 	// allocate buf2
@@ -52,11 +57,19 @@ bool SDHC_Init(void)
 
 	/* Open SDHC device */
 	fd = IOS_Open(fs, 0);
-	if (fd < 0) goto err;
+	if (fd < 0) 
+	{
+		ReturnValue = -2; // Asayu
+		goto err;
+	}
 
 	/* Initialize SDHC */
 	ret = IOS_IoctlvFormat(hid, fd, IOCTL_SDHC_INIT, ":");
-	if (ret) goto err;
+	if (ret)
+	{
+		ReturnValue = -3; // Asayu
+		goto err;
+	}
 
 	return true;
 
@@ -68,7 +81,7 @@ bool SDHC_Init(void)
 		fd = -1;
 	}
 
-	return false;
+	return ReturnValue; // Asayu
 }
 
 bool SDHC_Close(void)

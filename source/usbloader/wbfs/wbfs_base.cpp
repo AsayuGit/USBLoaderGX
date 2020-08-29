@@ -23,7 +23,6 @@ s32 Wbfs::Init(u32 device)
 	s32 ret;
 
 	//switch (WBFS_DEVICE_USB) // Asayu : Ce switch ne sert pour l'instant a rien
-	//switch (2)
 	switch (device) // Asayu : Fixed now can either be USB or SDHC
 	{
 		case WBFS_DEVICE_USB:
@@ -42,14 +41,14 @@ s32 Wbfs::Init(u32 device)
 			/* Initialize SDHC */
 			ret = SDHC_Init();
 
-			if (ret)
+			if (ret == 1)
 			{
 				/* Setup callbacks */
 				readCallback = __ReadSDHC;
 				writeCallback = __WriteSDHC;
 			}
 			else
-				return -1;
+				return ret;
 			break;
 	}
 
